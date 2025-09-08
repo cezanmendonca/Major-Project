@@ -20,3 +20,5 @@ Order of operations:
 4. MP Comparison Result:
   - The various levels of testing and comparison gives us 2 good Models at the top, which alows us to take a Hybrid approach to create a Model with the best qualities of both Stochastic Gradient Descent and AdaBoost Classifier. This Hybrid model has been labelled as Hybrid1.
   - The Hybrid1 model is compared against SGD and AdaBoost and the results are shown in graphs. 
+
+Research Available at: https://www.researchgate.net/publication/390299264_Credit_Card_Fraud_Detection_comparing_multiple_Supervised_Learning_Algorithms_for_Optimal_Accuracy
